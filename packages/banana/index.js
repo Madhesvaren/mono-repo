@@ -1,0 +1,1 @@
+module.exports = `banana module exports`;
